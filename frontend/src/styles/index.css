@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #10b981; /* Emerald Green */
+}
